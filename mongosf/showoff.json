@@ -2,6 +2,7 @@
   "name": "MongoSF - SimpleWorker",
   "description": "SimpleWorker",
   "sections": [
-    {"section":"one"}
+    {"section":"intro"},
+    {"section":"modernarch"}
   ]
 }

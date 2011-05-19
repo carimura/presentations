@@ -15,7 +15,7 @@
 ![atv](3l3.jpg)
 
 !SLIDE center
-![chair](3l4.jpg)
+![bigwheels](3l4.jpg)
 
 !SLIDE center
 ![dog](3l6.jpg)
