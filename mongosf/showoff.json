@@ -1,0 +1,7 @@
+{
+  "name": "MongoSF - SimpleWorker",
+  "description": "SimpleWorker",
+  "sections": [
+    {"section":"one"}
+  ]
+}
