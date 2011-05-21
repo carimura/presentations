@@ -3,6 +3,8 @@
   "description": "SimpleWorker",
   "sections": [
     {"section":"intro"},
-    {"section":"modernarch"}
+    {"section":"modernarch"},
+    {"section":"usecases"},
+    {"section":"close"}
   ]
 }

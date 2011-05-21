@@ -1,9 +1,8 @@
 !SLIDE
 
 # SimpleWorker
-## MongoSF 5/20/11
-### Chad Arimura
-
+## MongoSF 5/24/11
+### Chad Arimura, Co-Founder
 
 !SLIDE center
 ![stool](3l1.jpg)
@@ -23,3 +22,5 @@
 !SLIDE center
 ![r2d2](3l5.jpg)
 
+!SLIDE center
+# Supported by 3 Legs

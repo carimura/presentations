@@ -32,10 +32,6 @@
 * Open Source: DelayedJob, Resque, Workling
 * ![peter](background-peter.png)
 
-!SLIDE
-
-# SimpleWorker #
- 
 
 !SLIDE ruby-code smaller
 
