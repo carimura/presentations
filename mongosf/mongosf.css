@@ -6,3 +6,8 @@
 
 .ruby-code pre {
 }
+
+.big-font h1 {
+  font-family: verdana,arial,helvetica,sans-serif;
+  font-size: 150px;
+}
