@@ -1,23 +1,20 @@
 !SLIDE incremental bullets
 
 ## Background Processing: Use Cases
-* -Web Request/Response
-* -Parallelization
+* -Offload Frontend Tasks
 * -Scheduled Tasks
+* -Batch Processing
 * -Datastore Functionality
 
 !SLIDE bullets incremental
 
 # Datastore Functionality
-* Preprocessing Joins
+* Logic pushed up stack
 * Data Processing
 * The Unknown
 
-!SLIDE
+!SLIDE bullets incremental
 
-# Real World Example: Plaster Networks (recently acquired)
-
-!SLIDE center
-
-# Demo
-## ![mongo](mongodb.png) + ![sw](sw.png)
+# Real World Example: Plaster Networks
+* Highly denormalized
+* Hourly and nightly report generation

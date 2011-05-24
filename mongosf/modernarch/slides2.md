@@ -1,14 +1,12 @@
 !SLIDE bullets incremental
+# Modern Web Stack
+* App Servers + Workers + Datastores
 
-# Modern App Architecture #
 
-* App/UI Servers
-* Low Latency Datastores
-* Background Processing
 
 !SLIDE bullets incremental
 
-# App/UI Servers #
+# App Servers #
 
 * ![heroku](heroku.png)
 * ![duostack](duostack.png)
@@ -17,12 +15,11 @@
 
 !SLIDE bullets incremental
 
-# Low Latency Datastores #
+# Datastores #
 
 * ![mongo](mongodb.png)
 * ![couch](couchdb.png)
 * ![redis](redis.png)
-* many more...
 
 
 !SLIDE bullets incremental

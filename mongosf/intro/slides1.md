@@ -5,7 +5,7 @@
 ### SimpleWorker.com
 
 !SLIDE center
-![jeopardy1](jeopardy1.png)
+![j1](jeopardy2.png)
 ## The following things have *this* in common...
 
 !SLIDE center
@@ -26,9 +26,5 @@
 !SLIDE center
 ![r2d2](3l5.jpg)
 
-!SLIDE big-font center
-# ?
-
 !SLIDE center
-![jeopardy1](jeopardy2.png)
 ## What is... structurally supported by 3 Legs?
